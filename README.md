@@ -12,6 +12,7 @@ Technologia: OpenGL
 
  C ++
  
+ 
 Sterowanie: 
 
 W – ruch do przodu
@@ -26,6 +27,7 @@ W – ruch do przodu
  
  X – obrót w prawo
  
+ 
 Funkcjonalności:
 
 • Ruch ryb wokół różnych punktów
@@ -37,6 +39,7 @@ Funkcjonalności:
 • Możliwość poruszania się krabem bo całym wodnym świecie
 
 • Światło punktowe pochodzące ze środka sceny
+
 
 Podział ról:
 
