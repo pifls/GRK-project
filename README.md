@@ -1,11 +1,11 @@
 # GRK-project
 Projekt na zajęcia z przedmiotu Grafika komputerowa i wizualizacja
 
-Dokumentacja projektu – Wodny świat
+Dokumentacja projektu – Wodny świat__
 
- Przedmiot: Grafika komputerowa i wizualizacja 2017/2018
- Autorzy: Marek Pikosz
- Ziemowit Pałka
+ Przedmiot: Grafika komputerowa i wizualizacja 2017/2018__
+ Autorzy: Marek Pikosz__
+ Ziemowit Pałka__
 Technologia: OpenGL
  C ++
 Sterowanie: W – ruch do przodu
