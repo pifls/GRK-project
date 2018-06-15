@@ -11,7 +11,10 @@ Dokumentacja projektu – Wodny świat
 Technologia: OpenGL
 
  C ++
-Sterowanie: W – ruch do przodu
+ 
+Sterowanie: 
+
+W – ruch do przodu
 
  S – ruch w tył
  
